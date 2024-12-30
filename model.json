@@ -1,0 +1,59 @@
+{
+    "categories": [
+        {
+            "name": "Animales",
+            "description": "¿Puedes adivinar los animales en las cartas? Para mas diversion, ¡usa los sonidos de los animales!",
+            "words": [
+                "Perro",
+                "Gato",
+                "Elefante",
+                "Leon",
+                "Tigre",
+                "Cebra",
+                "Jirafa",
+                "Oso",
+                "Pato",
+                "Cocodrilo",
+                "Mono",
+                "Vaca",
+                "Caballo",
+                "Conejo",
+                "Pez",
+                "Aguila",
+                "Pinguino",
+                "Raton",
+                "Murcielago",
+                "Serpiente",
+                "Araña",
+                "Hormiga",
+                "Abeja",
+                "Mariposa",
+                "Mosca",
+                "Rana",
+                "Sapo",
+                "Tortuga",
+                "Cangrejo",
+                "Pulpo",
+                "Medusa",
+                "Camarón",
+                "Ballena"
+            ]
+        },
+        {
+            "name": "Comida",
+            "description": "Para los amantes de la cocina, estos son algunos de los platos mas populares del mundo. ¡Adivina la comida!"
+        },
+        {
+            "name": "Arte",
+            "description": "Pon tu vena artistica a prueba con este juego de cartas de arte. ¡Adivina las obras de arte!"
+        },
+        {
+            "name": "Deportes",
+            "description": "¿Eres un fanático de los deportes? ¡Este juego de cartas es para ti! Adivina los deportes en las cartas."
+        },
+        {
+            "name": "Paises",
+            "description": "Pon a prueba tu conocimiento geográfico con este juego de cartas de paises. ¿Puedes adivinarlos todos?"
+        }
+    ]
+}
